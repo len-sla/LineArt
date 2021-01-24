@@ -1,7 +1,7 @@
 ## Project Name LineArt
-> <p>The main aim of the project is to check possibility of quick tranforming portrait picture 
-to sketch like picture which isi not simply possible with the usage of of openCV kernels. <br>
-n the first phase already trained models will be used in this case from github [LineArt ](https://github.com/vijishmadhavan/ArtLine) .<br>
+> <p>The main aim of the project is to check possibility of quick tranforming portrait pictures 
+Transform picture to sketch like form which is  not  possible with the usage of of openCV kernels. <br>
+First phase already trained models will be used in this case from github [LineArt ](https://github.com/vijishmadhavan/ArtLine) .<br>
 <br>
 
 
